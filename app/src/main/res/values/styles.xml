@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <style name="Base.Button" parent="Widget.Material3.Button">
+          <item name="android:layout_width">80dp</item>
+          <item name="android:layout_height">80dp</item>
+          <item name="android:insetTop">0dp</item>
+          <item name="android:insetBottom">0dp</item>
+          <item name="android:textSize">24sp</item>
+    </style>
+
+    <style name="Gray.Button" parent="Base.Button">
+        <item name="backgroundTint">@color/gray</item>
+        <item name="android:textColor">@color/black</item>
+    </style>
+
+    <style name="Orange.Button" parent="Base.Button">
+        <item name="backgroundTint">@color/orange</item>
+    </style>
+
+    <style name="Dark.Gray.Button" parent="Base.Button">
+        <item name="backgroundTint">@color/dark_gray</item>
+    </style>
+    
+</resources>

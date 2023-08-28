@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="txt_zero">0</string>
+    <string name="txt_one">1</string>
+    <string name="txt_two">2</string>
+    <string name="txt_three">3</string>
+    <string name="txt_four">4</string>
+    <string name="txt_five">5</string>
+    <string name="txt_six">6</string>
+    <string name="txt_seven">7</string>
+    <string name="txt_eight">8</string>
+    <string name="txt_nine">9</string>
+    <string name="txt_plus">+</string>
+    <string name="txt_minus">-</string>
+    <string name="txt_duplicate">X</string>
+    <string name="txt_divide">/</string>
+    <string name="txt_mix">+/-</string>
+    <string name="txt_equal">=</string>
+    <string name="txt_percent">%</string>
+    <string name="txt_clear">AC</string>
+    <string name="txt_dot">.</string>
+</resources>
